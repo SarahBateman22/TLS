@@ -22,4 +22,4 @@ Step 6 (white): SERVER: Receive summary message from the client and validate (or
                 CLIENT: Send HMAC (Hash-Based Message Authentication Code) message of all handshake messages so far using the client's MAC key
 
 
-At this point the handshake is complete and the server and client can send secure messages to each other. When encrypting and decrypting messages, there is also a verification that the messages have not been altered anywhere (dark pink)
+At this point the handshake is complete and the server and client can send secure messages to each other. When encrypting and decrypting messages, there is also a verification that the messages have not been altered anywhere (dark pink).
